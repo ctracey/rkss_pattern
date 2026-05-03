@@ -1,4 +1,4 @@
-# Recipe & Knowledge Skill Separation (RKSS)
+# Agentic Onboarding with Recipe & Knowledge Skill Separation (RKSS)
 
 This is my attempt to understand and articulate the emerging community recognised "Recipe & Knowledge Skill Separation" pattern.
 (Based on my experiments with Claude Code)
