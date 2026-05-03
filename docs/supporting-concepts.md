@@ -5,16 +5,16 @@
 
 These are concepts that complement and extend the RKSS pattern. They are not required to get started, but they inform how a mature system evolves — from a project-specific skill set, to a shared plugin, to delegating work to CLI tools and eventually MCP services.
 
-- [Governance: Guiderails & Guardrails](#governance-guide-rails--guardrails)
+- [Governance: Guide Rails & Guardrails](#governance-guide-rails--guardrails)
 - [Context Documentation & Small Scoped Work](#context-documentation--small-scoped-work)
 - [Self-Reflection](#self-reflection)
 - [Maturity Model](#maturity-model)
 
-## Governance: Guiderails & Guardrails
+## Governance: Guide Rails & Guardrails
 
 Two levels of governance sit across the system. Guide rails nudge towards good behaviour. Guardrails enforce hard boundaries when things have gone too far.
 
-**Guiderail** `soft`
+**Guide Rail** `soft`
 Soft guidance that outlines what good looks like. A suggestion embedded in a knowledge skill — it informs the agent's behaviour without blocking execution.
 > e.g. always confirm the user is ready before committing changes
 
