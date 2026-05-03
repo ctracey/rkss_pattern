@@ -22,11 +22,11 @@ Soft guidance that outlines what good looks like. A suggestion embedded in a kno
 A hard stop that intercepts when things have gone too far. Implemented as a hook — it blocks execution and requires explicit user action before proceeding.
 > e.g. a hook on git commit that enforces the user has confirmed they are ready
 
-## Context Documentation & Small Scoped Work
+## Context Persistence & Small Scoped Work
 
 Two concepts that work together to make the system resilient and repeatable.
 
-**Context documentation**
+**Context persistence**
 Claude has no memory between sessions. Left unaddressed, this means progress, decisions, and domain knowledge accumulated in one session are lost when it ends. Context documentation solves this by persisting what matters outside the session — in version-controlled markdown files that live in the repository.
 
 This includes:
