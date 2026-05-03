@@ -1,9 +1,9 @@
-# Recipe & Knowledge Skill Separation
+# Recipe & Knowledge Skill Separation (RKSS)
 
 This is my attempt to understand and articulate the emerging community recognised "Recipe & Knowledge Skill Separation" pattern.
 (Based on my experiments with Claude Code)
 
-> Scalable teams don't carry culture in people's heads — they externalise it into systems, conventions, and processes that anyone can inherit. Onboarding a new team member means handing them the system, not shadowing someone. RKSS applies that same thinking to agents. Instead of prompting Claude differently every time, you build the culture once: the workflows, the conventions, the standards. Claude inherits it — the same way a well-onboarded person would. This is systems thinking applied to agentic work.
+> Scalable teams don't carry their entire culture in people's heads — they externalise it into systems, conventions, and processes that anyone can inherit. Onboarding a new team member means handing them the system, in addition to shadowing someone. RKSS applies that same thinking to agents. Instead of prompting Claude differently every time, you build the culture once: the workflows, the conventions, the standards. Claude inherits it — the same way a well-onboarded person would. This is systems thinking applied to agentic work.
 
 ## PATTERN: Recipe & Knowledge Skill Separation
 
